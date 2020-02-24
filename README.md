@@ -7,7 +7,7 @@
 Screenshot
 
 ### Live Page
-+ https://nelvinom.github.io/Delani-project-studio/
++ https://nelvinom.github.io/Delani-Studio-Nelvin/
 + Installation / Setup instruction Open Terminal {Ctrl+Alt+T}
 
 + git clone https://github.com/Nelvinom/Delani-project-studio/tree/gh-pages
