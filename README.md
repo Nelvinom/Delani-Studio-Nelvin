@@ -6,7 +6,7 @@
 + This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 Screenshot
 
-###Live Page
+### Live Page
 + https://nelvinom.github.io/Delani-project-studio/
 + Installation / Setup instruction Open Terminal {Ctrl+Alt+T}
 
